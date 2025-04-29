@@ -2,20 +2,20 @@
 
 Sistema simples de cadastro de tarefas (To-do list) usando Python, executado diretamente no terminal.
 
-## 📋 Funcionalidades
+## 📋Funcionalidades📋
 
 - Adicionar nova tarefa
 - Listar tarefas cadastradas
 - Marcar tarefa como concluída
 - Remover tarefa
 
-## 🛠 Tecnologias utilizadas
+## 🛠Tecnologias utilizadas🛠
 
 - Python 3.x
 - Terminal (modo interativo)
 - Lógica de programação básica
 
-## 🚀 Como executar
+## 🚀Como executar🚀
 
 1. Clone o repositório:
 ```bash
